@@ -1,49 +1,10 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Bang Gang - Official Videos</title>
-  <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-  <header>
-    <h1>Bang Gang</h1>
-    <p>All Our Latest Vibes in One Place</p>
-    <div class="social-links">
-      <a href="https://www.tiktok.com/@bang_gang._" target="_blank">TikTok</a>
-      <a href="https://www.instagram.com/bang_gang_og/" target="_blank">Instagram</a>
-    </div>
-  </header>
+# System files
+.DS_Store
+Thumbs.db
 
-  <main>
-    <h2>Our Videos</h2>
-    <section class="video-gallery">
+# Logs
+*.log
 
-      <!-- TikTok Video Example -->
-      <div class="video">
-        <blockquote class="tiktok-embed" cite="https://www.tiktok.com/@bang_gang._/video/123456789" data-video-id="123456789" style="max-width: 325px; min-width: 220px;">
-          <section>Loading TikTok...</section>
-        </blockquote>
-      </div>
-
-      <!-- Instagram Video Example -->
-      <div class="video">
-        <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/XXXXXXXXXX/" data-instgrm-version="14" style="max-width: 325px; min-width: 220px;">
-        </blockquote>
-      </div>
-
-      <!-- Add more videos like above -->
-
-    </section>
-  </main>
-
-  <footer>
-    <p>© 2025 Bang Gang. All Rights Reserved.</p>
-  </footer>
-
-  <!-- TikTok Embed Script -->
-  <script async src="https://www.tiktok.com/embed.js"></script>
-  <!-- Instagram Embed Script -->
-  <script async src="//www.instagram.com/embed.js"></script>
-</body>
-</html>
+# Temp files
+*.tmp
+*.swp
