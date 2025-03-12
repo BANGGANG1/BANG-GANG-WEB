@@ -9,11 +9,6 @@ Welcome to the **Bang Gang** official video hub! This site showcases our latest 
 
 - [TikTok](https://www.tiktok.com/@bang_gang._)  
 - [Instagram](https://www.instagram.com/bang_gang_og/)
-2. **Open index.html** in your browser to view locally.
-
-3. **Replace video links** in `index.html` with your real TikTok and Instagram video URLs.
-
----
 
 ## ✅ License
 
