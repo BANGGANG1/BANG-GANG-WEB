@@ -55,3 +55,11 @@ Welcome to the official **Bang Gang** page — a collective born from the street
 - **Instagram**: [@bang_gang_og](https://www.instagram.com/bang_gang_og/)  
 - Community growing fast — **10K+ on Instagram**, **50K+ on TikTok** (and growing).  
 **Join the movement. Welcome to Bang Gang.**
+<div class="video">
+  <blockquote class="tiktok-embed" cite="https://www.tiktok.com/@bang_gang._/video/ZP82B1qCN" data-video-id="ZP82B1qCN" style="max-width: 325px; min-width: 220px;">
+    <section>Loading TikTok...</section>
+  </blockquote>
+</div>
+## 📽️ one of our video!
+<!-- TikTok Embed Script -->
+<script async src="https://www.tiktok.com/embed.js"></script>
